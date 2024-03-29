@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "description": "membuat aplikasi catatan sederhana yang memungkinkan pengguna untuk menambah, mengedit, dan menghapus catatan. Aplikasi ini akan memiliki backend yang berbasis Node.js untuk mengelola data catatan dan frontend yang dibuat dengan React.js untuk antarmuka pengguna.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.3",
+    "sequelize": "^6.37.1"
+  }
+}
